@@ -1,0 +1,8 @@
+CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY:Colony_move_marketing_leads: System.LimitException: Too many SOQL queries: 101:-- w
+when importing contacts'
+
+Defend against empty colony valus.
+
+Automate Integration testing on all rest methods.
+
+Add test to avoid null on products
