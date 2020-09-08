@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>ApexClass</name>
+    <members>Colony_Account_Status_V2</members>
+    <members>Colony_Account_Usage_V2</members>
+    <members>Colony_Account_V2</members>
+    <members>Colony_CAS_Product_DM_V2</members>
+    <members>Colony_Contact_V2</members>
+    <members>Colony_DM_account_usage</members>
+    <members>Colony_DM_contact_V2</members>
+    <members>Colony_Manager</members>
+    <members>Colony_TestClass_V2</members>
+  </types>
+  <version>47.0</version>
+</Package>
