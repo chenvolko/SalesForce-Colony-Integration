@@ -12,7 +12,7 @@
         },
         "Ampr": {
             "prefix url":"https://quali--ampr.my.salesforce.com",
-            "url" : "https://quali--ampr.my.salesforce.com/services/oauth2/token",
+            "url" : "https://quali--ampr.sandbox.my.salesforce.com/services/oauth2/token",
             "body":{
                 "grant_type" : "refresh_token",
                 "client_id":"",
